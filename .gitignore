@@ -1,0 +1,6 @@
+\.gradle
+\.idea
+\gradle
+*.log
+*.class
+HELP.md
